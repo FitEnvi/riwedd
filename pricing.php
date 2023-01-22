@@ -24,54 +24,95 @@
 
 <section class="pricing">
 
-   <h1 class="heading">our pricing</h1>
+   <h1 class="heading">Daftar Harga</h1>
 
    <div class="box-container">
 
       <div class="box">
-         <h3>basic plan</h3>
-         <div class="price">$250/-</div>
+         <h3>Paket Bronze</h3>
+         <div class="price">Rp.15.000.000</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+            <p> <i class="fas fa-check"></i> Make up CPW</p>
+            <p> <i class="fas fa-check"></i> Baju akad 1 Pasang</p>
+            <p> <i class="fas fa-check"></i> Baju resepsi 1 pasang</p>
+            <p> <i class="fas fa-check"></i> Melati segar</p>
+            <p> <i class="fas fa-check"></i> Hena putih/maroon</p>
+            <p> <i class="fas fa-check"></i> Make up, baju orang tua & besan</p>
+            <p> <i class="fas fa-check"></i> Make up pager ayu & pager bagus</p>
+            <p> <i class="fas fa-check"></i> Dekorasi Rumah</p>
+            <p> <i class="fas fa-check"></i> Backdrop</p>
+            <p> <i class="fas fa-check"></i> Meja parasmanan</p>
+            <p> <i class="fas fa-check"></i> Alat perasmanan/pemanas</p>
+            <p> <i class="fas fa-check"></i> Kursi</p>
+            <p> <i class="fas fa-check"></i> Piring + Sendok</p>
+            <p> <i class="fas fa-check"></i> Fotografer</p>
+            <p> <i class="fas fa-check"></i> Tenda</p>
+            <p> <i class="fas fa-check"></i> Siraman adat sunda</p>
          </div>
-         <a href="contact.php" class="btn">choose plan</a>
+         <a href="contact.php" class="btn">PILIH PAKET</a>
       </div>
 
       <div class="box">
-         <h3>premium plan</h3>
-         <div class="price">$650/-</div>
+         <h3>Paket Silver</h3>
+         <div class="price">Rp.20.000.000</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+         <p> <i class="fas fa-check"></i> Make up CPW</p>
+            <p> <i class="fas fa-check"></i> Baju akad 1 Pasang</p>
+            <p> <i class="fas fa-check"></i> Baju resepsi 1 pasang</p>
+            <p> <i class="fas fa-check"></i> Melati segar</p>
+            <p> <i class="fas fa-check"></i> Hena putih/maroon</p>
+            <p> <i class="fas fa-check"></i> Make up, baju orang tua & besan</p>
+            <p> <i class="fas fa-check"></i> Make up pager ayu & pager bagus</p>
+            <p> <i class="fas fa-check"></i> Dekorasi Rumah</p>
+            <p> <i class="fas fa-check"></i> Backdrop</p>
+            <p> <i class="fas fa-check"></i> Meja parasmanan</p>
+            <p> <i class="fas fa-check"></i> Alat perasmanan/pemanas</p>
+            <p> <i class="fas fa-check"></i> Kursi</p>
+            <p> <i class="fas fa-check"></i> Piring + Sendok</p>
+            <p> <i class="fas fa-check"></i> Fotografer</p>
+            <p> <i class="fas fa-check"></i> Balon</p>
+            <p> <i class="fas fa-check"></i> Fire party</p>
+            <p> <i class="fas fa-check"></i> Hiburan(elektronik,artis2,mc)</p>
+            <p> <i class="fas fa-check"></i> Tenda</p>
+            <p> <i class="fas fa-check"></i> Siraman</p>
+            <p> <i class="fas fa-check"></i> Adat sunda</p>
          </div>
-         <a href="contact.php" class="btn">choose plan</a>
+         <a href="contact.php" class="btn">PILIH PAKET</a>
       </div>
 
       <div class="box">
-         <h3>ultimate plan</h3>
-         <div class="price">$1250/-</div>
+         <h3>Paket Gold</h3>
+         <div class="price">Rp.25.000.000</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+         <p> <i class="fas fa-check"></i> Make up CPW</p>
+            <p> <i class="fas fa-check"></i> Baju akad 1 Pasang</p>
+            <p> <i class="fas fa-check"></i> Baju resepsi 1 pasang</p>
+            <p> <i class="fas fa-check"></i> Melati segar</p>
+            <p> <i class="fas fa-check"></i> Hena putih/maroon</p>
+            <p> <i class="fas fa-check"></i> Make up, baju orang tua & besan</p>
+            <p> <i class="fas fa-check"></i> Make up pager ayu & pager bagus</p>
+            <p> <i class="fas fa-check"></i> Dekorasi Rumah</p>
+            <p> <i class="fas fa-check"></i> Backdrop</p>
+            <p> <i class="fas fa-check"></i> Meja parasmanan</p>
+            <p> <i class="fas fa-check"></i> Alat perasmanan/pemanas</p>
+            <p> <i class="fas fa-check"></i> Kursi</p>
+            <p> <i class="fas fa-check"></i> Piring + Sendok</p>
+            <p> <i class="fas fa-check"></i> Fotografer</p>
+            <p> <i class="fas fa-check"></i> Balon</p>
+            <p> <i class="fas fa-check"></i> Fire party</p>
+            <p> <i class="fas fa-check"></i> Hiburan(elektronik,artis2,mc)</p>
+            <p> <i class="fas fa-check"></i> Tenda</p>
+            <p> <i class="fas fa-check"></i> Upacara adat,siraman & adat sunda</p>
+            <p> <i class="fas fa-check"></i> Tenda pelaminan exlusive</p>
          </div>
-         <a href="contact.php" class="btn">choose plan</a>
+         <a href="contact.php" class="btn">PILIH PAKET</a>
       </div>
 
    </div>
 
 </section>
 
-<section class="reviews">
+<!--<section class="reviews">
 
    <h1 class="heading">happy clients</h1>
 
@@ -163,7 +204,7 @@
 
    </div>
 
-</section>
+</section> -->
 
 <?php @include 'footer.php'; ?>
 

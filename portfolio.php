@@ -26,7 +26,7 @@
 
 <section class="portfolio">
 
-   <h1 class="heading">our portfolio</h1>
+   <h1 class="heading">PORTOFOLIO KAMI</h1>
 
    <div class="portfolio-container">
 
@@ -34,42 +34,42 @@
          <div class="image">
             <img src="images/port-img-1.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>Pernikahan Pram & Noora</h3>
       </a>
 
       <a href="images/port-img-2.jpg" class="box">
          <div class="image">
             <img src="images/port-img-2.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>pernikahan Andre & Alya</h3>
       </a>
 
       <a href="images/port-img-3.jpg" class="box">
          <div class="image">
             <img src="images/port-img-3.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>pernikahan Fikri & Jodohnya</h3>
       </a>
 
       <a href="images/port-img-4.jpg" class="box">
          <div class="image">
             <img src="images/port-img-4.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>pernikahan Adam & Salwa</h3>
       </a>
 
       <a href="images/port-img-5.jpg" class="box">
          <div class="image">
             <img src="images/port-img-5.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>pernikahan Asep & Imas</h3>
       </a>
 
       <a href="images/port-img-6.jpg" class="box">
          <div class="image">
             <img src="images/port-img-6.jpg" alt="">
          </div>
-         <h3>wedding ceremony</h3>
+         <h3>pernikahan Udil & A </h3>
       </a>
 
    </div>

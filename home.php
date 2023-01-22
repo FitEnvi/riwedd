@@ -31,16 +31,16 @@
          <div class="swiper-slide slide" style="background:url(images/wed1.jpg) no-repeat">
             <div class="content">
                <h3>Rencanakan pernikahanmu!</h3>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
-               <a href="about.php" class="btn">discover more</a>
+               <p>Realisasikan pernikahan impianmu di RITA WEDDING & DECORATION</p>
+               <a href="contact.php" class="btn">WUJUDKAN SEKARANG</a>
             </div>
          </div>
 
          <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
             <div class="content">
                <h3>Rencanakan pernikahanmu!</h3>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
-               <a href="about.php" class="btn">discover more</a>
+               <p>Realisasikan pernikahan impianmu di RITA WEDDING & DECORATION</p>
+               <a href="contact.php" class="btn">WUJUDKAN SEKARANG</a>
             </div>
          </div>
 
@@ -48,7 +48,7 @@
             <div class="content">
                <h3>Rencanakan pernikahanmu!</h3>
                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
-               <a href="about.php" class="btn">discover more</a>
+               <a href="contact.php" class="btn">WUJUDKAN SEKARANG</a>
             </div>
          </div>
 
@@ -82,7 +82,7 @@
             <div class="content">
                <h3>Daftar Pernikahan</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="contact.php" class="btn">Selengkapnya</a>
             </div>
          </div>
 
@@ -91,7 +91,7 @@
             <div class="content">
                <h3>Daftar tamu</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="contact.php" class="btn">Selengkapnya</a>
             </div>
          </div>
 
@@ -100,7 +100,7 @@
             <div class="content">
                <h3>Kueh Pernikahan</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="contact.php" class="btn">Selengkapnya</a>
             </div>
          </div>
 
@@ -109,7 +109,7 @@
             <div class="content">
                <h3>Upacara pernikahan</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="contact.php" class="btn">Selengkapnya</a>
             </div>
          </div>
 
@@ -118,7 +118,7 @@
             <div class="content">
                <h3>Catering</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="contact.php" class="btn">Selengkapnya</a>
             </div>
          </div>
 

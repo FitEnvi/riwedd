@@ -47,7 +47,7 @@ if(isset($_POST['send'])){
 
 <section class="contact">
 
-   <h1 class="heading">contact us</h1>
+   <h1 class="heading">Pilih Pesananmu</h1>
 
    <form action="" method="post">
 
